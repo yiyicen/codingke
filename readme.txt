@@ -1,2 +1,1 @@
-git init...
-com.yiyicen.android
+good good study day day up 
